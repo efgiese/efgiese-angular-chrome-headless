@@ -8,7 +8,7 @@ Docker image with embedded Node 10 and Chrome Headless preconfigured for Angular
 docker pull efgiese/efgiese-angular-chrome-headless
 ```
 
-## Karma Config
+## Karma config
 
 ```js
 // Karma configuration file, see link for more information
