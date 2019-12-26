@@ -1,6 +1,6 @@
 # efgiese-angular-chrome-headless
 
-Docker image with embedded Node 10 and Chrome Headless preconfigured for Angular unit/e2e tests in CI/CD environments
+Docker image with embedded Node 12 and Chrome Headless preconfigured for Angular unit/e2e tests in CI/CD environments
 
 ## Get the image
 
@@ -63,6 +63,7 @@ module.exports = function (config) {
   });
 };
 ```
+
 ## Protractor config
 
 ```js
