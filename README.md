@@ -170,3 +170,7 @@ deploy_prod:
   only:
   - master
 ```
+
+## Update Chrome
+
+* Support Chrome 79
