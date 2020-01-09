@@ -171,6 +171,7 @@ deploy_prod:
   - master
 ```
 
-## Update Chrome
+## Update
 
 * Support Chrome 79
+* Nodejs 12.14.1
