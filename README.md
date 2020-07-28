@@ -174,4 +174,4 @@ deploy_prod:
 ## Update
 
 * Support Chrome 84
-* Nodejs 12.18.2
+* Nodejs 12.18.3
