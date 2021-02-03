@@ -173,5 +173,5 @@ deploy_prod:
 
 ## Update
 
-* Support Chrome 87
+* Support Chrome 88
 * Nodejs 14.15.1
